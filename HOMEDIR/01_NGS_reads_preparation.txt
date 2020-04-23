@@ -1,0 +1,23 @@
+
+Download the NGS reads listed below and store them in the SRA directory.
+
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003520
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003521
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003524
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003525
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003529
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003535
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003536
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003537*
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003538*
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003539
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003540
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003543
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003544
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003550
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003551
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003552*
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003553
+https://sra-download.ncbi.nlm.nih.gov/traces/era20/ERR/ERR2003/ERR2003554
+* ERR2003537, ERR2003538 and ERR2003552 were not used in this study.
+
